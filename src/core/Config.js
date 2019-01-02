@@ -1,0 +1,4 @@
+const ApiEnv = {
+    Product,
+    Development
+}
